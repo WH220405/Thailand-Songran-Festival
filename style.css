@@ -16,15 +16,21 @@ h4 {
 }
 .container {
     display: flex;
-    column-gap: 30px;
+    column-gap: 10px;
+    align-items: center;
 
 }
 img {
     max-width: 500px;
     margin: 30px auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #4D4F9E;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     height: 200px
+
+    
+}
+footer {
+    text-align: center;
 }
