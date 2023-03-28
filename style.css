@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #cbbeb5;
+}
+
+h1 {
+    text-shadow: 2px 2px red;
+    font-family: Cursive;
+    text-align: center;
+}
+
+h4 {
+    font-family: Cursive;
+    text-align: center;
+
+}
+.container {
+    display: flex;
+    column-gap: 80px;
+
+}
+img {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #4D4F9E;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 200px
+}
